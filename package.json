@@ -1,6 +1,5 @@
 {
-  "name": "supermallz",
-  "version": "0.1.0",
+  "name": "supermall",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,7 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
